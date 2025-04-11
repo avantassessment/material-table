@@ -1,4 +1,4 @@
-> :warning: THIS IS NOT material-table, THIS IS A FORKLED VERSION CREATED TO DEAL WITH JSPDF VCULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED. CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITOTY](https://github.com/mbrn/material-table) 
+> :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table)
 
 <br/>
 <br/>
@@ -7,45 +7,9 @@
   <a href="https://material-table.com" rel="noopener" target="_blank" ><img width="200" src="https://raw.githubusercontent.com/mbrn/material-table.com/master/docs/assets/logo-back.png" alt="material-table"></a></p>
 </p>
 
-<h1 align="center">material-table</h1>
-
-<div align="center">
-
-A simple and powerful Datatable for React based on [Material-UI Table](https://material-ui.com/api/table/) with some additional features.
-
-[![Build Status](https://travis-ci.org/mbrn/material-table.svg?branch=master)](https://travis-ci.org/mbrn/material-table)
-[![Financial Contributors on Open Collective](https://opencollective.com/material-table/all/badge.svg?label=financial+contributors)](https://opencollective.com/material-table) [![npm package](https://img.shields.io/npm/v/material-table/latest.svg)](https://www.npmjs.com/package/material-table)
-[![NPM Downloads](https://img.shields.io/npm/dm/material-table.svg?style=flat)](https://npmcharts.com/compare/material-table?minimal=true)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mbrn/material-table.svg)](http://isitmaintained.com/project/mbrn/material-table "Average time to resolve an issue")
-[![xscode](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=)](https://xscode.com/mbrn/material-table)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/baranmehmet.svg?label=follow+baranmehmet)](https://twitter.com/baranmehmet)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/material-table/Lobby)
-
-</div>
-
-## Roadmap
-
-- [More on our roadmap can be found here](https://github.com/mbrn/material-table/blob/master/.github/ROADMAP.md)
-
-## Key features
-
-- [Actions](https://material-table.com/#/docs/features/actions)
-- [Component overriding](https://material-table.com/#/docs/features/component-overriding)
-- [Custom column rendering](https://material-table.com/#/docs/features/custom-column-rendering)
-- [Detail Panel](https://material-table.com/#/docs/features/detail-panel)
-- [Editable](https://material-table.com/#/docs/features/editable)
-- [Export](https://material-table.com/#/docs/features/export)
-- [Filtering](https://material-table.com/#/docs/features/filtering)
-- [Grouping](https://material-table.com/#/docs/features/grouping)
-- [Localization](https://material-table.com/#/docs/features/localization)
-- [Remote Data](https://material-table.com/#/docs/features/remote-data)
-- [Search](https://material-table.com/#/docs/features/search)
-- [Selection](https://material-table.com/#/docs/features/selection)
-- [Sorting](https://material-table.com/#/docs/features/sorting)
-- [Styling](https://material-table.com/#/docs/features/styling)
-- [Tree Data](https://material-table.com/#/docs/features/tree-data)
-- and more
-
+> :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table)
+> :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table)
+> :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table) 
 ## Demo and documentation
 
 You can access all code examples and documentation on our site [**material-table.com**](https://material-table.com/).
