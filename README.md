@@ -8,8 +8,11 @@
 </p>
 
 > :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table)
+
 > :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table)
+
 > :warning: **THIS IS NOT `material-table`. THIS IS A FORKED VERSION CREATED TO ADDRESS A `jspdf` VULNERABILITY UNTIL OUR PR ON THE ROOT PROJECT IS ACCEPTED.** CLICK FOR THE ORIGINAL [PACKAGE](https://www.npmjs.com/package/material-table) OR [REPOSITORY](https://github.com/mbrn/material-table) 
+
 ## Demo and documentation
 
 You can access all code examples and documentation on our site [**material-table.com**](https://material-table.com/).
